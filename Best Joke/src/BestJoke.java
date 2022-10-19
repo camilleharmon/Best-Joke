@@ -5,7 +5,7 @@ public class BestJoke {
 		
 		System.out.println("Yo mama");
 		
-		System.out.println("Hit");
+		System.out.println("Hi");
 	}
 
 }
